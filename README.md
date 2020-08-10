@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Marvyn. A physicist from Brazil. I work with optics and photonics, and I love data and analyticsI'm Surjith. A freelance Web Designer & Developer from Kerala, India. I design and develop websites, landing pages and applications for startups and enterprises..
+
 <!--
 **marvync/marvync** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
