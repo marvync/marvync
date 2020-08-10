@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Marvyn. A physicist from Brazil. I work with optics and photonics, and I love data and analyticsI'm Surjith.
+I'm Marvyn. A physicist from Brazil. I work with optics and photonics, and I love data and analytics.
 
 <!--
 **marvync/marvync** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
